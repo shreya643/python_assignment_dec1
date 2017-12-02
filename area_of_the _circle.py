@@ -2,7 +2,7 @@
 
 def f(num):
     appx_pi=22/7
-    area= appx_pi*num**2
+    area= appx_pi*num**3
     print("{} * {}^2 = ".format(appx_pi,num),end="")
     print("{0:.3f}".format(area))
     
