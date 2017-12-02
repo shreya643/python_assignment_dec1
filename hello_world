@@ -1,0 +1,6 @@
+#05. program that  prints "Hello World" ten times. (no new lines at the end)
+
+def greeting(greet):
+		print(greet*10, end="")
+
+greeting(" Hello World")
