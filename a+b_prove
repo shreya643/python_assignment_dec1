@@ -1,4 +1,4 @@
-#4. program that  proves (a+b)2 = a2+2ab+b2
+#4. Program that  proves (a+b)2 = a2+2ab+b2
 
 def LHS(a,b):
     return (a+b)**2
