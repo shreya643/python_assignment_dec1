@@ -1,4 +1,4 @@
-#03. Happy Birthday Song for a Friend
+#03. program that prints Happy Birthday Song for a Friend
 
 def greeting(style):
     wish= "Happy Birthday to You\n"
